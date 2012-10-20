@@ -47,6 +47,7 @@ public interface Model {
 	 */
 	Model addAttribute(Object attributeValue);
 
+
 	/**
 	 * Copy all attributes in the supplied <code>Collection</code> into this
 	 * <code>Map</code>, using attribute name generation for each element.
