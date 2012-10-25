@@ -23,7 +23,6 @@ package org.springframework.asm;
  * <p>See <a href="package-summary.html">package-level Javadoc</a> for more
  * information on {@code org.springframework.asm}.
  *
- *test git commit
  * @author Chris Beams
  * @since 3.2
  */
